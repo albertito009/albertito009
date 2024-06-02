@@ -1,6 +1,6 @@
 # Alberto Martínez - System Administrator
 
-Hello there! 👋 I'm Alberto, a Systems Administrator. I'm not a professional developer, but I enjoy creating my own scripts and tools for personal projects, as well as contributing to our community.
+Hello there! 👋 I'm Alberto, a Systems Administrator from Barcelona (Spain). I'm not a professional developer, but I enjoy creating my own scripts and tools for personal projects, as well as contributing to our community.
 
 🔍 Currently, I'm on the lookout for new job opportunities. If you're interested in having an ambitious teammate like me on your team, feel free to contact me:
 
