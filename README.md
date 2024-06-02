@@ -1,4 +1,4 @@
-# Alberto Martínez Toro - System Administrator
+# Alberto Martínez - System Administrator
 
 Hello there! 👋 I'm Alberto, a Systems Administrator. I'm not a professional developer, but I enjoy creating my own scripts and tools for personal projects, as well as contributing to our community.
 
